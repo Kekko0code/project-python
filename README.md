@@ -1,2 +1,2 @@
-# project-python
-progetti python 
+progetti python (personali)
+project python (personal)
